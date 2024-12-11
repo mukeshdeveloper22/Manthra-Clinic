@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manthra Clinicc", "Manthra Clinicc\Manthra Clinicc.csproj", "{932A1373-9548-472E-A61F-3D11749E8696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{932A1373-9548-472E-A61F-3D11749E8696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932A1373-9548-472E-A61F-3D11749E8696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932A1373-9548-472E-A61F-3D11749E8696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932A1373-9548-472E-A61F-3D11749E8696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3850FD05-F092-4FA4-BC58-1D78992E2CBF}
+	EndGlobalSection
+EndGlobal
